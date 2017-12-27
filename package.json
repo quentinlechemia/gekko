@@ -68,7 +68,7 @@
     "sinon": "^1.12.2"
   },
   "engines": {
-    "node": "6.0"
+    "node": "<=7.0"
   },
   "license": "MIT",
   "repository": {
