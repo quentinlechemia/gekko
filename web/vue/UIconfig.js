@@ -12,7 +12,7 @@ const CONFIG = {
     ui: {
         ssl: false,
         host: 'app-76f8c54e-e44c-4ad1-9a47-9bc5bc7b98fc.cleverapps.io', // Set this to the IP of the machine that will run Gekko
-        port: 3000,
+        port: 8080,
         path: '/'
     },
     adapter: 'sqlite'
