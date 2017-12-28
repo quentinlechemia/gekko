@@ -6,8 +6,8 @@
 const CONFIG = {
     headless: true,
     api: {
-        host: 'app-76f8c54e-e44c-4ad1-9a47-9bc5bc7b98fc.cleverapps.io',
-        port: 3000,
+        host: '0.0.0.0',
+        port: process.env.PORT || 3000,
     },
     ui: {
         ssl: false,
